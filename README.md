@@ -19,21 +19,6 @@ Here are the tools and technologies I use, all bundled up in one place with thei
 
 ---
 
-## 📚 **Projects**
-
-### 1. **Metaverse App : virtual world & real-time video calls**  
-🌐 **Live:** [Metaverse App](https://metaverse-app.onrender.com/)  
-- **Tech Stack**: WebRTC, Phaser.js, Socket.IO, MERN Stack
-
-### 2. **BetMaster : gambling platform**
-🚀 **Live:** [BetMaster](https://coloro.onrender.com)  
-- **Tech Stack**: Node.js, Express.js, MongoDB, HTML, CSS, JS
-
-### 3. **WonderLust : hotel listing platform**  
-🌍 **Live:** [WonderLust](https://wonderlust-j6xj.onrender.com)  
-- **Tech Stack**: MERN Stack (MongoDB, Express.js, React, Node.js)
----
-
 ## 🧠 **Learning & Growth**
 
 - **Recently explored**: WebRTC, Phaser, Socket.IO, Dynamic audio output selection, Real-time multiplayer gaming.
