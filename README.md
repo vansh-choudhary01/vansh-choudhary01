@@ -1,46 +1,77 @@
-# 🌟 **Vansh Choudhary** | Full Stack Developer 🌟
+# 👋 Hey, I'm Vansh Choudhary  
 
-🚀 **Building the Future, One Line of Code at a Time** | 🔥 **MERN Stack Enthusiast** | 🌐 **Problem Solver** | 💻 **WebRTC & WebSocket Expert** 
-
----
-
-## 👨‍💻 **About Me**
-
-Hey there! I'm **Vansh Choudhary**, a passionate full-stack developer with a keen interest in building web applications that are both **innovative** and **user-centric**. Currently, I'm **building some amazing projects** to create **immersive real-life experiences**. I specialize in **MERN stack** development and love exploring new technologies to solve real-world problems.
-
-I believe **code** is more than just syntax; it's a **bridge to connect ideas** and **transform visions into reality**. From **solving complex algorithms** to **building end-to-end applications**, I'm on a journey to **constantly evolve** and contribute to the tech community.
+### 💻 Full Stack Developer | Real-Time Systems | AI x Web | MERN Stack
 
 ---
 
-## 💼 **Technologies & Tools**  
-Here are the tools and technologies I use, all bundled up in one place with their icons! 🎨  
+## 🚀 About Me  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-0064C7?style=for-the-badge&logo=phaser&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333?style=for-the-badge&logo=webrtc&logoColor=green) ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I'm a **Full Stack Developer** passionate about building **real-time, scalable, and interactive** web systems.  
+Over time, I’ve moved from basic backend projects to working on **WebRTC, WebSocket**, and **AI-integrated** applications that push the limits of what can run inside a browser.  
 
----
+I love experimenting with how **AI and code** can work together — from prompt-based code generation to local in-browser execution using **WebContainers**.  
 
-## 🧠 **Learning & Growth**
+Recently, I built an **AI-powered Website Builder** where users can simply give prompts, and the system writes, updates, and runs code live — all directly inside the browser.  
+*(It runs locally just to check and update your code.)*  
 
-- **Recently explored**: WebRTC, Phaser, Socket.IO, Dynamic audio output selection, Real-time multiplayer gaming.
-- **Passions**: Gaming 🎮, problem-solving 🧩, and enhancing communication skills for interviews. Always looking for new ways to collaborate and push the envelope in software engineering.
-
----
-
-## 💬 **Let's Connect**
-
-🔗 **GitHub**: [vansh-choudhary01](https://github.com/vansh-choudhary01)  
-📧 **Email**: [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)  
-📲 **LinkedIn**: [Vansh Choudhary](https://www.linkedin.com/in/vansh-choudhary-1816722aa/)
+For me, every bug or failed attempt is just another way to understand systems more deeply. I focus on how things work under the hood and how we can make them work even better.
 
 ---
 
-### ⚡ Fun Facts:
+## 🧠 Current Focus  
 
-- I am obsessed with **logic building** before jumping into development.
-- **Gaming** isn't just for fun; it's a great way to boost my **problem-solving skills**!
-- I’ve been coding with a **goal**: To build impactful tech that helps real-world users.
+- Exploring **Prompt Engineering** and AI internals  
+- Deep diving into **WebRTC** and **peer-to-peer systems**  
+- Building **scalable backend architectures** with real-time performance  
+- Merging **AI with real-world engineering logic**  
+- Improving communication and collaboration skills through tech projects  
 
 ---
-_“The more I learn, the more I realize how much more there is to discover.”_
-  
-Let's code something amazing! 💻✨
+
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks**  
+- JavaScript | TypeScript | Node.js | Express.js | React | EJS | HTML | CSS  
+- MongoDB | SQL | Java | C  
+
+**Core Expertise**  
+- Real-time Systems (WebRTC, WebSocket, Socket.IO)  
+- WebContainers & Local Code Execution  
+- AI Integration & Prompt Engineering  
+- Backend System Design & Scalability  
+- Game Logic with Phaser.js  
+- Authentication, Hosting & Deployment  
+
+**Tools & Platforms**  
+- Docker | AWS | Git | GitHub | Styled Components | REST APIs  
+
+---
+
+## 🧩 Projects  
+
+- **[BetMaster](https://coloro.onrender.com)** – A real-time gambling platform with secure transactions, hashed passwords, and multi-user synchronization.  
+- **WonderLust** – A full-stack hotel listing platform with maps, sessions, and cloud hosting.  
+- **Metaverse App** – A Phaser-based multiplayer space where users can interact, join tables, and communicate through WebRTC.  
+- **AI Website Builder (New)** – Generates, runs, and updates websites from prompts using WebContainers.
+
+Check out my pinned repositories for more!
+
+---
+
+## 🎯 Learning Never Stops  
+
+I believe logic building comes before development — understanding *why* things work makes *how* much easier.  
+Still learning. Still experimenting. Still building.  
+
+---
+
+## 🌐 Connect With Me  
+
+- **GitHub:** [vansh-choudhary01](https://github.com/vansh-choudhary01)  
+- **LinkedIn:** [Vansh Choudhary](https://www.linkedin.com/in/vansh-choudhary-1816722aa/)  
+- **Email:** [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)  
+
+---
+
+> “The more I learn, the more I realize how much more there is to discover.”
+
