@@ -20,7 +20,7 @@ For me, every bug or failed attempt is just another way to understand systems mo
 
 ## 🧠 Current Focus  
 
-- Exploring **Prompt Engineering** and AI internals  
+- Exploring **AI Engineering** and AI internals  
 - Deep diving into **WebRTC** and **peer-to-peer systems**  
 - Building **scalable backend architectures** with real-time performance  
 - Merging **AI with real-world engineering logic**  
