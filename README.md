@@ -1,77 +1,159 @@
-# 👋 Hey, I'm Vansh Choudhary  
+# Vansh Choudhary
 
-### 💻 Full Stack Developer | Real-Time Systems | AI x Web | MERN Stack
+**Software Engineer | Backend Systems | AI Infrastructure | Distributed Systems**
 
----
+I'm a Software Engineer with 1 year of experience building production backend systems, real-time communication platforms, and AI-powered applications.
 
-## 🚀 About Me  
+Professionally, I've worked on scalable backend services using **Node.js, TypeScript, Redis, Kafka, MongoDB, Docker, AWS, WebRTC, and Mediasoup**. My work includes distributed services, deployment infrastructure, real-time systems, and Retrieval-Augmented Generation (RAG) applications.
 
-I'm a **Full Stack Developer** passionate about building **real-time, scalable, and interactive** web systems.  
-Over time, I’ve moved from basic backend projects to working on **WebRTC, WebSocket**, and **AI-integrated** applications that push the limits of what can run inside a browser.  
-
-I love experimenting with how **AI and code** can work together — from prompt-based code generation to local in-browser execution using **WebContainers**.  
-
-Recently, I built an **AI-powered Website Builder** where users can simply give prompts, and the system writes, updates, and runs code live — all directly inside the browser.  
-*(It runs locally just to check and update your code.)*  
-
-For me, every bug or failed attempt is just another way to understand systems more deeply. I focus on how things work under the hood and how we can make them work even better.
+Outside of work, I build production-style engineering projects focused on AI agents, deployment platforms, observability, workflow orchestration, vector search, and distributed systems.
 
 ---
 
-## 🧠 Current Focus  
+## Featured Projects
 
-- Exploring **AI Engineering** and AI internals  
-- Deep diving into **WebRTC** and **peer-to-peer systems**  
-- Building **scalable backend architectures** with real-time performance  
-- Merging **AI with real-world engineering logic**  
-- Improving communication and collaboration skills through tech projects  
+### ChatGPT Scraper Backend
 
----
+A Node.js/Express backend that drives a real Chromium browser using Playwright to interact with ChatGPT without relying on the official API.
 
-## 🛠️ Tech Stack  
+**Highlights**
 
-**Languages & Frameworks**  
-- JavaScript | TypeScript | Node.js | Express.js | React | EJS | HTML | CSS  
-- MongoDB | SQL | Java | C  
+* Browser automation with Playwright
+* Session management
+* REST API interface
+* Production-ready backend architecture
 
-**Core Expertise**  
-- Real-time Systems (WebRTC, WebSocket, Socket.IO)  
-- WebContainers & Local Code Execution  
-- AI Integration & Prompt Engineering  
-- Backend System Design & Scalability  
-- Game Logic with Phaser.js  
-- Authentication, Hosting & Deployment  
-
-**Tools & Platforms**  
-- Docker | AWS | Git | GitHub | Styled Components | REST APIs  
+Repository:
+https://github.com/vansh-choudhary01/gpt-scrapper
 
 ---
 
-## 🧩 Projects  
+### DebugPilot
 
-- **[BetMaster](https://coloro.onrender.com)** – A real-time gambling platform with secure transactions, hashed passwords, and multi-user synchronization.  
-- **WonderLust** – A full-stack hotel listing platform with maps, sessions, and cloud hosting.  
-- **Metaverse App** – A Phaser-based multiplayer space where users can interact, join tables, and communicate through WebRTC.  
-- **AI Website Builder (New)** – Generates, runs, and updates websites from prompts using WebContainers.
+An AI-powered observability platform that analyzes production logs, detects incidents, indexes GitHub repositories using embeddings and MongoDB Vector Search, and generates root-cause hypotheses.
 
-Check out my pinned repositories for more!
+**Highlights**
 
----
+* Production log ingestion
+* AI-powered incident detection
+* Root cause analysis
+* GitHub repository indexing
+* Embeddings and vector search
+* AI-assisted debugging workflows
 
-## 🎯 Learning Never Stops  
-
-I believe logic building comes before development — understanding *why* things work makes *how* much easier.  
-Still learning. Still experimenting. Still building.  
-
----
-
-## 🌐 Connect With Me  
-
-- **GitHub:** [vansh-choudhary01](https://github.com/vansh-choudhary01)  
-- **LinkedIn:** [Vansh Choudhary](https://www.linkedin.com/in/vansh-choudhary-1816722aa/)  
-- **Email:** [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)  
+Repository:
+https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence-
 
 ---
 
-> “The more I learn, the more I realize how much more there is to discover.”
+### Pi Agent with Kubernetes Sandbox Execution
 
+A TypeScript AI agent where every tool invocation executes inside an isolated Kubernetes sandbox leased from a pool of warm pods.
+
+**Highlights**
+
+* Kubernetes sandbox execution
+* Warm pod leasing
+* Secure code execution
+* Tool orchestration
+* AI agent infrastructure
+
+Repository:
+https://github.com/vansh-choudhary01/pi-sandbox-k8s
+
+---
+
+### RAG Optimization
+
+A modular Retrieval-Augmented Generation pipeline implementing Semantic + Adaptive Chunking 2.0 to improve retrieval quality and LLM responses.
+
+**Highlights**
+
+* Semantic chunking
+* Adaptive chunking
+* Query transformation
+* Retrieval evaluation
+* Embeddings
+* Vector search
+
+Repository:
+https://github.com/vansh-choudhary01/RAG-Optimization
+
+---
+
+### DeployForge
+
+A deployment platform inspired by Render that deploys backend services to EC2 and frontend applications to S3 through distributed deployment workflows.
+
+**Highlights**
+
+* GitHub repository deployments
+* Docker-based builds
+* RabbitMQ workers
+* Redis event streaming
+* EC2 backend deployments
+* S3 frontend deployments
+* Deployment history
+* Live deployment logs
+
+Repository:
+https://github.com/vansh-choudhary01/DeployForge
+
+---
+
+## Professional Experience
+
+**Backend Developer (1 Year)**
+
+Worked on production backend systems with a focus on scalability, reliability, and low-latency communication.
+
+Responsibilities included:
+
+* Building real-time communication services using WebRTC, WebSockets, and Mediasoup
+* Developing scalable backend APIs using Node.js and TypeScript
+* Working with Redis, Kafka, and MongoDB
+* Deploying and managing infrastructure on AWS (EC2, S3, ECR, ASG)
+* Building RAG-based AI applications
+* Shipping production-ready features in collaboration with cross-functional teams
+
+---
+
+## Technical Skills
+
+**Languages**
+
+TypeScript • JavaScript • C
+
+**Backend**
+
+Node.js • Express.js • REST APIs • BullMQ
+
+**Databases**
+
+MongoDB • PostgreSQL • SQL • Redis • MongoDB Vector Search
+
+**AI**
+
+OpenAI • Gemini • RAG • Embeddings • MCP • AI Agents • Tool Calling
+
+**Distributed Systems**
+
+Kafka • RabbitMQ • Event-Driven Architecture
+
+**Infrastructure**
+
+Docker • Kubernetes • AWS • GitHub Actions • Nginx
+
+**Realtime**
+
+WebRTC • Mediasoup • WebSockets
+
+---
+
+## Connect
+
+GitHub: https://github.com/vansh-choudhary01
+
+LinkedIn: https://linkedin.com/in/vansh-choudhary-1816722aa
+
+Email: [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)
