@@ -2,35 +2,67 @@
 
 **Software Engineer | Backend Systems | AI Infrastructure | Distributed Systems**
 
-I'm a Software Engineer with 1 year of experience building production backend systems, real-time communication platforms, and AI-powered applications.
+I'm a Software Engineer with 1 year of experience building production backend systems, distributed services, real-time communication platforms, and AI-powered applications.
 
-Professionally, I've worked on scalable backend services using **Node.js, TypeScript, Redis, Kafka, MongoDB, Docker, AWS, WebRTC, and Mediasoup**. My work includes distributed services, deployment infrastructure, real-time systems, and Retrieval-Augmented Generation (RAG) applications.
-
-Outside of work, I build production-style engineering projects focused on AI agents, deployment platforms, observability, workflow orchestration, vector search, and distributed systems.
+My interests lie at the intersection of backend engineering, distributed systems, AI infrastructure, and developer tooling. I enjoy building systems that automate complex workflows, scale reliably, and solve real engineering problems.
 
 ---
 
 ## Featured Projects
 
-### ChatGPT Scraper Backend
+### TUI Terminal Code
 
-A Node.js/Express backend that drives a real Chromium browser using Playwright to interact with ChatGPT without relying on the official API.
+A terminal-native AI coding agent inspired by Claude Code that autonomously edits code, executes shell commands, searches the web, delegates work to sub-agents, and interacts with web applications through a real Chromium browser.
+
+The agent operates through an autonomous tool-calling execution loop, allowing the LLM to iteratively invoke tools until a task is completed. It supports multiple LLM providers, maintains long-running conversation memory with automatic summarization, and performs browser interactions using Playwright instead of relying solely on APIs.
 
 **Highlights**
 
-* Browser automation with Playwright
-* Session management
-* REST API interface
-* Production-ready backend architecture
+* Terminal UI built with Ink
+* Autonomous tool-calling agent loop
+* Browser automation using Playwright
+* Read, write and patch project files
+* Shell command execution
+* Web search integration
+* Sub-agent orchestration
+* Streaming responses
+* Conversation memory with automatic summarization
+* Multi-provider support (OpenAI, Gemini, Local Models)
+* Isolated project workspaces
 
-Repository:
-https://github.com/vansh-choudhary01/gpt-scrapper
+Repository
+
+https://github.com/vansh-choudhary01/tui-claude-code
+
+---
+
+### DeployForge
+
+A deployment platform inspired by Render that converts GitHub repositories into production-ready services using distributed deployment workflows.
+
+Backend services are deployed to EC2 while frontend applications are automatically built and deployed to S3. The platform includes live deployment logs, worker orchestration, infrastructure automation, and deployment history.
+
+**Highlights**
+
+* GitHub repository deployments
+* Docker build pipeline
+* RabbitMQ worker system
+* Redis pub/sub for live deployment logs
+* EC2 backend deployment
+* S3 frontend deployment
+* Environment variable management
+* Deployment history
+* Infrastructure lifecycle automation
+
+Repository
+
+https://github.com/vansh-choudhary01/DeployForge
 
 ---
 
 ### DebugPilot
 
-An AI-powered observability platform that analyzes production logs, detects incidents, indexes GitHub repositories using embeddings and MongoDB Vector Search, and generates root-cause hypotheses.
+An AI-powered observability platform that monitors production logs, detects incidents, indexes GitHub repositories using embeddings and MongoDB Vector Search, and generates root-cause hypotheses.
 
 **Highlights**
 
@@ -38,27 +70,33 @@ An AI-powered observability platform that analyzes production logs, detects inci
 * AI-powered incident detection
 * Root cause analysis
 * GitHub repository indexing
-* Embeddings and vector search
-* AI-assisted debugging workflows
+* Embeddings & Vector Search
+* Incident memory
+* AI-assisted debugging
 
-Repository:
+Repository
+
 https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence-
 
 ---
 
-### Pi Agent with Kubernetes Sandbox Execution
+### Pi Sandbox Kubernetes Runtime
 
-A TypeScript AI agent where every tool invocation executes inside an isolated Kubernetes sandbox leased from a pool of warm pods.
+A secure execution runtime where every AI tool invocation runs inside an isolated Kubernetes sandbox leased from a pool of warm pods.
+
+The runtime provides filesystem isolation, secure shell execution, and disposable execution environments for AI agents.
 
 **Highlights**
 
 * Kubernetes sandbox execution
-* Warm pod leasing
+* Warm pod pool
 * Secure code execution
-* Tool orchestration
-* AI agent infrastructure
+* Filesystem isolation
+* Session-aware runtime
+* Tool execution infrastructure
 
-Repository:
+Repository
+
 https://github.com/vansh-choudhary01/pi-sandbox-k8s
 
 ---
@@ -69,82 +107,64 @@ A modular Retrieval-Augmented Generation pipeline implementing Semantic + Adapti
 
 **Highlights**
 
-* Semantic chunking
-* Adaptive chunking
-* Query transformation
-* Retrieval evaluation
+* Semantic Chunking
+* Adaptive Chunking
+* Query Transformation
+* Retrieval Evaluation
 * Embeddings
-* Vector search
+* Vector Search
+* Modular retrieval pipeline
 
-Repository:
+Repository
+
 https://github.com/vansh-choudhary01/RAG-Optimization
-
----
-
-### DeployForge
-
-A deployment platform inspired by Render that deploys backend services to EC2 and frontend applications to S3 through distributed deployment workflows.
-
-**Highlights**
-
-* GitHub repository deployments
-* Docker-based builds
-* RabbitMQ workers
-* Redis event streaming
-* EC2 backend deployments
-* S3 frontend deployments
-* Deployment history
-* Live deployment logs
-
-Repository:
-https://github.com/vansh-choudhary01/DeployForge
 
 ---
 
 ## Professional Experience
 
-**Backend Developer (1 Year)**
+### Backend Developer (1 Year)
 
-Worked on production backend systems with a focus on scalability, reliability, and low-latency communication.
+Worked on production backend systems focused on scalability, reliability, and low-latency communication.
 
 Responsibilities included:
 
-* Building real-time communication services using WebRTC, WebSockets, and Mediasoup
-* Developing scalable backend APIs using Node.js and TypeScript
-* Working with Redis, Kafka, and MongoDB
-* Deploying and managing infrastructure on AWS (EC2, S3, ECR, ASG)
-* Building RAG-based AI applications
-* Shipping production-ready features in collaboration with cross-functional teams
+* Building real-time communication services using WebRTC, Mediasoup, and WebSockets
+* Developing scalable backend APIs with Node.js and TypeScript
+* Working with Redis, Kafka, RabbitMQ, and MongoDB
+* Building and deploying cloud infrastructure on AWS (EC2, S3, ECR, ASG)
+* Developing Retrieval-Augmented Generation (RAG) applications
+* Collaborating with cross-functional teams to deliver production-ready features
 
 ---
 
 ## Technical Skills
 
-**Languages**
+### Languages
 
 TypeScript • JavaScript • C
 
-**Backend**
+### Backend
 
 Node.js • Express.js • REST APIs • BullMQ
 
-**Databases**
+### Databases
 
 MongoDB • PostgreSQL • SQL • Redis • MongoDB Vector Search
 
-**AI**
+### AI
 
-OpenAI • Gemini • RAG • Embeddings • MCP • AI Agents • Tool Calling
+OpenAI • Gemini • RAG • Embeddings • Tool Calling • AI Agents • MCP
 
-**Distributed Systems**
+### Distributed Systems
 
 Kafka • RabbitMQ • Event-Driven Architecture
 
-**Infrastructure**
+### Infrastructure
 
 Docker • Kubernetes • AWS • GitHub Actions • Nginx
 
-**Realtime**
+### Realtime
 
 WebRTC • Mediasoup • WebSockets
 
@@ -152,8 +172,14 @@ WebRTC • Mediasoup • WebSockets
 
 ## Connect
 
-GitHub: https://github.com/vansh-choudhary01
+GitHub
 
-LinkedIn: https://linkedin.com/in/vansh-choudhary-1816722aa
+https://github.com/vansh-choudhary01
 
-Email: [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)
+LinkedIn
+
+https://www.linkedin.com/in/vansh-choudhary-1816722aa
+
+Email
+
+[choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)
