@@ -183,3 +183,7 @@ https://www.linkedin.com/in/vansh-choudhary-1816722aa
 Email
 
 [choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)
+
+X.com
+
+https://x.com/VanshChoudhaary
