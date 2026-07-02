@@ -1,189 +1,146 @@
 # Vansh Choudhary
 
-**Software Engineer | Backend Systems | AI Infrastructure | Distributed Systems**
+### Software Engineer • Backend Systems • AI Infrastructure • Distributed Systems
 
-I'm a Software Engineer with 1 year of experience building production backend systems, distributed services, real-time communication platforms, and AI-powered applications.
-
-My interests lie at the intersection of backend engineering, distributed systems, AI infrastructure, and developer tooling. I enjoy building systems that automate complex workflows, scale reliably, and solve real engineering problems.
+Building production backend systems, AI infrastructure, distributed services, and developer tools with **TypeScript, Node.js, Kubernetes, AWS, and modern LLMs**.
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### TUI Terminal Code
+## DeployForge
+Production deployment platform inspired by Render.
 
-A terminal-native AI coding agent inspired by Claude Code that autonomously edits code, executes shell commands, searches the web, delegates work to sub-agents, and interacts with web applications through a real Chromium browser.
+**Tech:** TypeScript • Node.js • Docker • RabbitMQ • Redis • AWS EC2 • S3
 
-The agent operates through an autonomous tool-calling execution loop, allowing the LLM to iteratively invoke tools until a task is completed. It supports multiple LLM providers, maintains long-running conversation memory with automatic summarization, and performs browser interactions using Playwright instead of relying solely on APIs.
+**Features**
+- GitHub deployments
+- Docker build pipeline
+- Distributed workers
+- Live deployment logs
+- EC2 backend deployment
+- S3 frontend deployment
 
-**Highlights**
+🌐 **Live:** https://naaspeeti.xyz
 
-* Terminal UI built with Ink
-* Autonomous tool-calling agent loop
-* Browser automation using Playwright
-* Read, write and patch project files
-* Shell command execution
-* Web search integration
-* Sub-agent orchestration
-* Streaming responses
-* Conversation memory with automatic summarization
-* Multi-provider support (OpenAI, Gemini, Local Models)
-* Isolated project workspaces
-
-Repository
-
-https://github.com/vansh-choudhary01/tui-claude-code
-
----
-
-### DeployForge
-
-A deployment platform inspired by Render that converts GitHub repositories into production-ready services using distributed deployment workflows.
-
-Backend services are deployed to EC2 while frontend applications are automatically built and deployed to S3. The platform includes live deployment logs, worker orchestration, infrastructure automation, and deployment history.
-
-**Highlights**
-
-* GitHub repository deployments
-* Docker build pipeline
-* RabbitMQ worker system
-* Redis pub/sub for live deployment logs
-* EC2 backend deployment
-* S3 frontend deployment
-* Environment variable management
-* Deployment history
-* Infrastructure lifecycle automation
-
-Repository
-
+📦 **Repository:**  
 https://github.com/vansh-choudhary01/DeployForge
 
 ---
 
-### DebugPilot
+## DebugPilot
 
-An AI-powered observability platform that monitors production logs, detects incidents, indexes GitHub repositories using embeddings and MongoDB Vector Search, and generates root-cause hypotheses.
+AI-powered observability platform for production incident detection and root cause analysis.
 
-**Highlights**
+**Tech:** Node.js • MongoDB • Vector Search • OpenAI • BullMQ • Redis
 
-* Production log ingestion
-* AI-powered incident detection
-* Root cause analysis
-* GitHub repository indexing
-* Embeddings & Vector Search
-* Incident memory
-* AI-assisted debugging
+**Features**
+- Production log ingestion
+- AI incident detection
+- Root cause analysis
+- GitHub indexing
+- Embeddings & Vector Search
 
-Repository
+🌐 **Live:** https://incident.naaspeeti.xyz
 
+📦 **Repository:**  
 https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence-
 
 ---
 
-### Pi Sandbox Kubernetes Runtime
+## Pi Sandbox
 
-A secure execution runtime where every AI tool invocation runs inside an isolated Kubernetes sandbox leased from a pool of warm pods.
+Secure Kubernetes runtime for AI tool execution using isolated sandbox environments.
 
-The runtime provides filesystem isolation, secure shell execution, and disposable execution environments for AI agents.
+**Tech:** Kubernetes • Docker • TypeScript • WebSockets
 
-**Highlights**
+**Features**
+- Warm pod pool
+- Lease-based scheduling
+- Secure shell execution
+- Filesystem isolation
+- Disposable runtimes
 
-* Kubernetes sandbox execution
-* Warm pod pool
-* Secure code execution
-* Filesystem isolation
-* Session-aware runtime
-* Tool execution infrastructure
+🌐 **Live:** https://sandbox.naaspeeti.xyz
 
-Repository
-
+📦 **Repository:**  
 https://github.com/vansh-choudhary01/pi-sandbox-k8s
 
 ---
 
-### RAG Optimization
+## TUI Terminal Code
 
-A modular Retrieval-Augmented Generation pipeline implementing Semantic + Adaptive Chunking 2.0 to improve retrieval quality and LLM responses.
+Autonomous AI coding agent inspired by Claude Code.
 
-**Highlights**
+**Tech:** TypeScript • Ink • Playwright • Gemini • OpenAI
 
-* Semantic Chunking
-* Adaptive Chunking
-* Query Transformation
-* Retrieval Evaluation
-* Embeddings
-* Vector Search
-* Modular retrieval pipeline
+**Features**
+- Autonomous tool calling
+- Browser automation
+- File editing
+- Shell execution
+- Sub-agents
+- Conversation memory
 
-Repository
+📦 **Repository:**  
+https://github.com/vansh-choudhary01/tui-claude-code
 
+---
+
+## RAG Optimization
+
+Semantic + Adaptive Chunking pipeline for Retrieval-Augmented Generation.
+
+**Features**
+- Semantic Chunking
+- Adaptive Chunking
+- Query Transformation
+- Embeddings
+- Vector Search
+
+📦 **Repository:**  
 https://github.com/vansh-choudhary01/RAG-Optimization
 
 ---
 
-## Professional Experience
-
-### Backend Developer (1 Year)
-
-Worked on production backend systems focused on scalability, reliability, and low-latency communication.
-
-Responsibilities included:
-
-* Building real-time communication services using WebRTC, Mediasoup, and WebSockets
-* Developing scalable backend APIs with Node.js and TypeScript
-* Working with Redis, Kafka, RabbitMQ, and MongoDB
-* Building and deploying cloud infrastructure on AWS (EC2, S3, ECR, ASG)
-* Developing Retrieval-Augmented Generation (RAG) applications
-* Collaborating with cross-functional teams to deliver production-ready features
-
----
-
-## Technical Skills
+# ⚙️ Tech Stack
 
 ### Languages
-
 TypeScript • JavaScript • C
 
 ### Backend
-
 Node.js • Express.js • REST APIs • BullMQ
 
 ### Databases
-
-MongoDB • PostgreSQL • SQL • Redis • MongoDB Vector Search
+MongoDB • PostgreSQL • Redis • MongoDB Vector Search
 
 ### AI
-
-OpenAI • Gemini • RAG • Embeddings • Tool Calling • AI Agents • MCP
+OpenAI • Gemini • RAG • Embeddings • AI Agents • Tool Calling • MCP
 
 ### Distributed Systems
-
 Kafka • RabbitMQ • Event-Driven Architecture
 
 ### Infrastructure
-
 Docker • Kubernetes • AWS • GitHub Actions • Nginx
 
 ### Realtime
-
 WebRTC • Mediasoup • WebSockets
 
 ---
 
-## Connect
+# 🌐 Connect
 
-GitHub
+**Portfolio**  
+https://vansh-choudhary01.github.io/
 
+**GitHub**  
 https://github.com/vansh-choudhary01
 
-LinkedIn
-
+**LinkedIn**  
 https://www.linkedin.com/in/vansh-choudhary-1816722aa
 
-Email
+**Email**  
+choudharyvansh642@gmail.com
 
-[choudharyvansh642@gmail.com](mailto:choudharyvansh642@gmail.com)
-
-X.com
-
+**X**  
 https://x.com/VanshChoudhaary
