@@ -1,146 +1,42 @@
 # Vansh Choudhary
 
-### Software Engineer • Backend Systems • AI Infrastructure • Distributed Systems
+## Software Engineer • Backend Systems • AI Infrastructure • Distributed Systems
 
-Building production backend systems, AI infrastructure, distributed services, and developer tools with **TypeScript, Node.js, Kubernetes, AWS, and modern LLMs**.
-
----
-
-# 🚀 Featured Projects
-
-## DeployForge
-Production deployment platform inspired by Render.
-
-**Tech:** TypeScript • Node.js • Docker • RabbitMQ • Redis • AWS EC2 • S3
-
-**Features**
-- GitHub deployments
-- Docker build pipeline
-- Distributed workers
-- Live deployment logs
-- EC2 backend deployment
-- S3 frontend deployment
-
-🌐 **Live:** https://naaspeeti.xyz
-
-📦 **Repository:**  
-https://github.com/vansh-choudhary01/DeployForge
+Building production-grade backend systems, AI infrastructure, distributed platforms, and developer tools focused on scalability, automation, and real-world engineering problems.
 
 ---
 
-## DebugPilot
+## Featured Projects
 
-AI-powered observability platform for production incident detection and root cause analysis.
-
-**Tech:** Node.js • MongoDB • Vector Search • OpenAI • BullMQ • Redis
-
-**Features**
-- Production log ingestion
-- AI incident detection
-- Root cause analysis
-- GitHub indexing
-- Embeddings & Vector Search
-
-🌐 **Live:** https://incident.naaspeeti.xyz
-
-📦 **Repository:**  
-https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence-
+| Project | Description | Tech | Links |
+|----------|-------------|------|-------|
+| **DeployForge** | Deployment platform for AWS backend services and frontend static sites, featuring automated builds, distributed workers, and live deployment logs. | TypeScript • Node.js • Docker • RabbitMQ • Redis • AWS | **Live:** https://naaspeeti.xyz<br>**Repo:** https://github.com/vansh-choudhary01/DeployForge |
+| **DebugPilot** | AI-powered observability platform for incident detection, root cause analysis, and repository-aware debugging. | Node.js • MongoDB • BullMQ • OpenAI • Vector Search • Redis | **Live:** https://incident.naaspeeti.xyz<br>**Repo:** https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence- |
+| **Pi Sandbox** | Secure Kubernetes runtime for isolated AI tool execution with automatic sandbox leasing. | Kubernetes • Docker • TypeScript • WebSockets | **Live:** https://sandbox.naaspeeti.xyz<br>**Repo:** https://github.com/vansh-choudhary01/pi-sandbox-k8s |
+| **TUI Terminal Code** | Terminal-native AI coding agent with autonomous tool calling, browser automation, and sub-agent orchestration. | TypeScript • Ink • Playwright • Gemini • OpenAI | **Repo:** https://github.com/vansh-choudhary01/tui-claude-code |
+| **RAG Optimization** | Retrieval-Augmented Generation pipeline implementing Semantic + Adaptive Chunking. | OpenAI • Embeddings • Vector Search | **Repo:** https://github.com/vansh-choudhary01/RAG-Optimization |
 
 ---
 
-## Pi Sandbox
+## Core Technologies
 
-Secure Kubernetes runtime for AI tool execution using isolated sandbox environments.
-
-**Tech:** Kubernetes • Docker • TypeScript • WebSockets
-
-**Features**
-- Warm pod pool
-- Lease-based scheduling
-- Secure shell execution
-- Filesystem isolation
-- Disposable runtimes
-
-🌐 **Live:** https://sandbox.naaspeeti.xyz
-
-📦 **Repository:**  
-https://github.com/vansh-choudhary01/pi-sandbox-k8s
+| Domain | Technologies |
+|--------|--------------|
+| **Backend** | Node.js • TypeScript • Express • REST APIs • BullMQ |
+| **AI** | OpenAI • Gemini • RAG • Embeddings • AI Agents • Tool Calling • MCP |
+| **Infrastructure** | Docker • Kubernetes • AWS • GitHub Actions • Nginx |
+| **Distributed Systems** | Kafka • RabbitMQ • Redis |
+| **Databases** | MongoDB • PostgreSQL • MongoDB Vector Search |
+| **Realtime** | WebRTC • Mediasoup • WebSockets |
 
 ---
 
-## TUI Terminal Code
+## Connect
 
-Autonomous AI coding agent inspired by Claude Code.
-
-**Tech:** TypeScript • Ink • Playwright • Gemini • OpenAI
-
-**Features**
-- Autonomous tool calling
-- Browser automation
-- File editing
-- Shell execution
-- Sub-agents
-- Conversation memory
-
-📦 **Repository:**  
-https://github.com/vansh-choudhary01/tui-claude-code
-
----
-
-## RAG Optimization
-
-Semantic + Adaptive Chunking pipeline for Retrieval-Augmented Generation.
-
-**Features**
-- Semantic Chunking
-- Adaptive Chunking
-- Query Transformation
-- Embeddings
-- Vector Search
-
-📦 **Repository:**  
-https://github.com/vansh-choudhary01/RAG-Optimization
-
----
-
-# ⚙️ Tech Stack
-
-### Languages
-TypeScript • JavaScript • C
-
-### Backend
-Node.js • Express.js • REST APIs • BullMQ
-
-### Databases
-MongoDB • PostgreSQL • Redis • MongoDB Vector Search
-
-### AI
-OpenAI • Gemini • RAG • Embeddings • AI Agents • Tool Calling • MCP
-
-### Distributed Systems
-Kafka • RabbitMQ • Event-Driven Architecture
-
-### Infrastructure
-Docker • Kubernetes • AWS • GitHub Actions • Nginx
-
-### Realtime
-WebRTC • Mediasoup • WebSockets
-
----
-
-# 🌐 Connect
-
-**Portfolio**  
-https://vansh-choudhary01.github.io/
-
-**GitHub**  
-https://github.com/vansh-choudhary01
-
-**LinkedIn**  
-https://www.linkedin.com/in/vansh-choudhary-1816722aa
-
-**Email**  
-choudharyvansh642@gmail.com
-
-**X**  
-https://x.com/VanshChoudhaary
+| Platform | Link |
+|----------|------|
+| **Portfolio** | https://vansh-choudhary01.github.io/ |
+| **GitHub** | https://github.com/vansh-choudhary01 |
+| **LinkedIn** | https://www.linkedin.com/in/vansh-choudhary-1816722aa |
+| **X** | https://x.com/VanshChoudhaary |
+| **Email** | choudharyvansh642@gmail.com |
