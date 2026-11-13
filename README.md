@@ -14,7 +14,7 @@ Building production-grade backend systems, AI infrastructure, distributed platfo
 | **DebugPilot** | AI-powered observability platform for incident detection, root cause analysis, and repository-aware debugging. | Node.js • MongoDB • BullMQ • OpenAI • Vector Search • Redis | **Live:** https://incident.vanshchoudhary.com<br>**Repo:** https://github.com/vansh-choudhary01/DebugPilot-Incident-Intelligence- |
 | **Pi Sandbox** | Secure Kubernetes runtime for isolated AI tool execution with automatic sandbox leasing. | Kubernetes • Docker • TypeScript • WebSockets | **Live:** https://sandbox.vanshchoudhary.com<br>**Repo:** https://github.com/vansh-choudhary01/pi-sandbox-k8s |
 | **TUI Terminal Code** | Terminal-native AI coding agent with autonomous tool calling, browser automation, and sub-agent orchestration. | TypeScript • Ink • Playwright • Gemini • OpenAI | **Repo:** https://github.com/vansh-choudhary01/tui-claude-code |
-| **RAG Optimization** | Retrieval-Augmented Generation pipeline implementing Semantic + Adaptive Chunking. | OpenAI • Embeddings • Vector Search | **Repo:** https://github.com/vansh-choudhary01/RAG-Optimization |
+| **RepoTalk** | Codebase Q&A workspace that combines AST parsing, hybrid retrieval, and code graphs to help developers understand GitHub repositories. | TypeScript • Neo4j • Pinecone • BM25 + Semantic Search • RRF | **Repo:** https://github.com/vansh-choudhary01/UNDERSTAND-CODEBASE |
 
 ---
 
